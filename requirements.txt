@@ -1,1 +1,1 @@
-launchable==1.24.0
+launchable==1.24.3
