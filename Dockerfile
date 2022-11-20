@@ -1,4 +1,4 @@
-FROM openjdk:8-jre-slim
+FROM openjdk:11.0.16-jre-slim
 
 COPY --from=python:3.9-slim / /
 
